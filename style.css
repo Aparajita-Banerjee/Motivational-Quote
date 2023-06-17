@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+.quoteimg{
+    width: 100%;
+    border: 10px solid white;
+}
+h1{
+    text-transform: uppercase;
+}
+.poster{
+    text-align: center;
+    width:50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    font-family: 'Libre Baskerville', serif;
+}
+
